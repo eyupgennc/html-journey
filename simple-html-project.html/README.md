@@ -1,4 +1,4 @@
-![home-screenshot](home.png)
-![films-screenshot](films.png)
-![forms-screenshot](forms.png)
-![best-films-screenshot](best-films.png)
+![home-screenshot](images/home.png)
+![films-screenshot](images/films.png)
+![forms-screenshot](images/forms.png)
+![best-films-screenshot](images/best-films.png)
